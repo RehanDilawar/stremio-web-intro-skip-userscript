@@ -12,7 +12,7 @@ First of all you need to have [tampermonkey](https://www.tampermonkey.net/) or V
 
 ## Greasy Fork
 
-You can find the scrip [here](https://greasyfork.org/en/scripts/560968-stremio-web-skip-intro-official-web-port)
+You can find the script [here](https://greasyfork.org/en/scripts/560968-stremio-web-skip-intro-official-web-port)
 
 # Intro Skip in UI
 
